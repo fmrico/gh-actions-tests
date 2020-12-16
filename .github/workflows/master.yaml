@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-      
+ 
 jobs:
   build-and-test:
     runs-on: ${{ matrix.os }}
@@ -23,7 +23,7 @@ jobs:
         with:
           required-ros-distributions: foxy
       - name: build and test
-        uses: fmrico/action-ros-ci@0.1.2
+        uses: fmrico/action-ros-ci@0.1.1
         with:
           package-name: mylib myapp
           target-ros2-distro: foxy
