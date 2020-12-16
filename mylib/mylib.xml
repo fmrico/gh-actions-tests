@@ -1,0 +1,7 @@
+<class_libraries>
+  <library path="mylib">
+    <class name="mylib/Plugin" type="mylib::Plugin" base_class_type="mylib_base::PluginBase">
+      <description></description>
+    </class>
+  </library>
+</class_libraries>
