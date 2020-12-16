@@ -1,8 +1,8 @@
 # gh-actions-tests
 
 [![GitHub Action
-Status](https://github.com/fmrico/gh-actions-tests/workflows/main/main.svg)](https://github.com/fmrico/gh-actions-tests)
-[![codecov](https://codecov.io/gh/fmrico/gh-actions-tests/master/graph/badge.svg)](https://codecov.io/gh/fmrico/gh-actions-tests)
+Status](https://github.com/fmrico/gh-actions-tests/workflows/main/badge.svg)](https://github.com/fmrico/gh-actions-tests)
+[![codecov](https://codecov.io/gh/fmrico/gh-actions-tests/main/graph/badge.svg)](https://codecov.io/gh/fmrico/gh-actions-tests)
 
 
 This repo conatins examples for:
