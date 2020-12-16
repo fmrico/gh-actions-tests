@@ -1,7 +1,7 @@
 # gh-actions-tests
 
 [![GitHub Action
-Status](https://github.com/fmrico/gh-actions-tests/workflows/master/master.svg)](https://github.com/fmrico/gh-actions-tests)
+Status](https://github.com/fmrico/gh-actions-tests/workflows/main/main.svg)](https://github.com/fmrico/gh-actions-tests)
 [![codecov](https://codecov.io/gh/fmrico/gh-actions-tests/master/graph/badge.svg)](https://codecov.io/gh/fmrico/gh-actions-tests)
 
 
