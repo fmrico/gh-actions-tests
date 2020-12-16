@@ -5,7 +5,7 @@ Status](https://github.com/fmrico/gh-actions-tests/workflows/main/badge.svg)](ht
 [![codecov](https://codecov.io/gh/fmrico/gh-actions-tests/main/graph/badge.svg)](https://codecov.io/gh/fmrico/gh-actions-tests)
 
 
-This repo conatins examples for:
+This repo contains examples for:
 * Plugin creation and usage in ROS2
 * GitHub actions for:
   * Build and testing
