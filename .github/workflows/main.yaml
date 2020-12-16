@@ -1,12 +1,12 @@
-name: master
+name: main
 
 on:
   pull_request:
     branches:
-      - master
+      - main
   push:
     branches:
-      - master
+      - main
       
 jobs:
   build-and-test:
@@ -23,7 +23,7 @@ jobs:
         with:
           required-ros-distributions: foxy
       - name: build and test
-        uses: fmrico/action-ros-ci@0.1.2
+        uses: ros-tooling/action-ros-ci@0.1.0
         with:
           package-name: mylib myapp
           target-ros2-distro: foxy
