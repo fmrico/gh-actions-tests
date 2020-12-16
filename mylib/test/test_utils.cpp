@@ -19,7 +19,7 @@
 #include "mylib/Utils.hpp"
 
 
-/*TEST(test_utils, plugin)
+TEST(test_utils, plugin)
 {
   mylib::Plugin plugin(2);
 
@@ -27,7 +27,7 @@
   ASSERT_EQ(plugin.get_secret(), 2);
 }
 
-TEST(test_utils, get_true)
+/*TEST(test_utils, get_true)
 {
   ASSERT_TRUE(mylib::get_true());
 }
