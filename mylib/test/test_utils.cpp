@@ -27,7 +27,7 @@ TEST(test_utils, plugin)
   ASSERT_EQ(plugin.get_secret(), 2);
 }
 
-/*TEST(test_utils, get_true)
+TEST(test_utils, get_true)
 {
   ASSERT_TRUE(mylib::get_true());
 }
@@ -43,7 +43,7 @@ TEST(test_utils, get_time)
   auto node = rclcpp_lifecycle::LifecycleNode::make_shared("test_node");
   ASSERT_GT(mylib::get_time(node).seconds(), 1.0);
 }
-*/
+
 int main(int argc, char ** argv)
 {
   testing::InitGoogleTest(&argc, argv);
